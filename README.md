@@ -6,7 +6,6 @@
 <html lang="en">
   <head>
 <meta charset="UTF-8">
-<title>MiLaD U N P</title>
 
  </head>
  <!-- This Sample Page is Completely -->
